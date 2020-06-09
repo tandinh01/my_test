@@ -1,2 +1,2 @@
 # my_test
-Just Tesing
+Just Testing and learning how to create a repository
